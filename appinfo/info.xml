@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info>
+	<id>user_list</id>
+	<name>User list</name>
+	<description>
+		Lists all available users based on the existence of their data directory.
+
+		This app can be used in combintion with the WebDAV user backend, to allow sharing of files between WebDAV users.
+	</description>
+	<licence>AGPL</licence>
+	<author>Tobias Wallura</author>
+	<require>4.93</require>
+	<shipped>true</shipped>
+	<types>
+		<authentication/>
+	</types>
+</info>
