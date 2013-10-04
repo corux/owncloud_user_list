@@ -10,7 +10,6 @@
 	<licence>AGPL</licence>
 	<author>Tobias Wallura</author>
 	<require>4.93</require>
-	<shipped>true</shipped>
 	<types>
 		<authentication/>
 	</types>
